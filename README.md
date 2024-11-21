@@ -12,4 +12,4 @@
 - Replace the variable 'suggestion_one' and 'suggestion_two' with 'puzzle' and pass it as a parameter to the 'solve_sudoku' function.
 - You can find more sudokus to solve (with their solutions) at:
 https://www.sudoku-online.org/print-sudokus.php
-- Hay que sustituir los espacios en blanco por ceros (0) cuando rellenes la matriz 'puzzle' para que el programa funcione.
+- Blank spaces must be replaced by zeros (0) when filling the 'puzzle' matrix for the program to work.
